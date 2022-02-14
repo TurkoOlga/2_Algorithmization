@@ -1,4 +1,4 @@
-package algorithmization.sort6;
+package sort6;
 
 import java.util.Arrays;
 

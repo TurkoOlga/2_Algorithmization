@@ -1,4 +1,4 @@
-package algorithmization.sort1;
+package sort1;
 
 import java.util.ArrayList;
 

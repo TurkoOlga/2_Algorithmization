@@ -1,4 +1,4 @@
-package algorithmization.task9;
+package task9;
 
 import java.util.Arrays;
 

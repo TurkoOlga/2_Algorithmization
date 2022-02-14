@@ -1,4 +1,4 @@
-package algorithmization.task5;
+package task5;
 /*
 Даны целые числа а1 ,а2 ,..., аn . Вывести на печать только те числа, для которых а[i] > [i].
 

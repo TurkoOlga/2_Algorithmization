@@ -1,4 +1,4 @@
-package algorithmization.sort3;
+package sort3;
 /*
 3. Сортировка выбором. Дана последовательность чисел
 a1  a2  an
